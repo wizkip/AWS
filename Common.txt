@@ -1,1 +1,32 @@
 Lets Introduce common types of AWS services
+1. Compute
+2. Storage
+3. Networking
+
+6 advantages of Cloud Computing
+ * Go global in minutes
+ * Benefit from massive economies of scale
+ * Speed and agility
+ * Trade CAPEX for OPEX
+ * Stop guessing capacity
+ * Stop spending money to maintain a data center
+
+Factors to consider when choosing a REGION
+   * Latency
+   * Pricing
+   * Service availability
+   * Compliance
+
+Region is a Cluster of AZs
+Availability Zone is a Cluster of Data centers
+
+
+Cloud Deployment options
+1. Cloud
+2. Hybrid
+3. On-Premises
+
+Models:
+1. Infrastructure as a Service
+2. Platform as a Service
+3. Software as a Service

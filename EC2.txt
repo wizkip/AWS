@@ -1,0 +1,11 @@
+Tyes of EC2 Instances
+1. Standard GP
+2. Compute Optimized 
+3. Accelerated Computing
+4. Memory Optimized
+5. Storage Optimized
+6. Instances
+7. Perfomance measuring
+
+
+

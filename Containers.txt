@@ -1,0 +1,14 @@
+A container is a standardized unit that holds the Code and its dependencies
+
+Docker is a runtime that packages, deploys and monitors containers.
+
+Some AWS container Orchestrate Services are:
+   * Amazon Elastic container Service
+   * Amazon Elastic Kubernetes Service
+
+If you must implement a serverless architecture, the compute option to use will be AWS Fargate. 
+
+Fargate is a serverless compute service that works with container orchestrate services in AWS.
+Container images are created and deployed in the Elastic Container Registry (ECR) where the orchestrate service will pull
+and deploy on Fargate.
+

@@ -1,0 +1,10 @@
+S3 is also called the storage of the internet
+
+S3 types
+1. Standard GP
+2. Standard Infrequent-Access
+3. One Zone Infrequent Access
+4. Glacier Flexible Retrieval
+5. Glacier Instant Retrieval
+6. Glacier Deep Archive
+
